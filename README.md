@@ -1,3 +1,8 @@
+-=(CongoBongo_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [Arcade: Congo Bongo] port to [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 MiSTer port by Dar (darfpga@aol.fr - sourceforge/darfpga - github/darfpga)
